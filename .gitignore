@@ -95,7 +95,7 @@ ENV/
 uploads/*
 #vsdk/settings.py
 vsdk/static
-vsdk/uploads
+#vsdk/uploads
 vsdk/staticfiles
 
 #OS Files
