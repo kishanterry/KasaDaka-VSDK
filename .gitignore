@@ -98,3 +98,5 @@ vsdk/static
 vsdk/uploads
 vsdk/staticfiles
 
+#OS Files
+.DS_Store
